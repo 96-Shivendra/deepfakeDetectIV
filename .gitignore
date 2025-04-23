@@ -1,0 +1,4 @@
+notebooks/
+detection_results/
+data/val
+*.keras
