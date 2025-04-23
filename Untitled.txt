@@ -1,0 +1,7 @@
+
+Vision for Diet Planner Application
+Vision Statement
+Fostering individuals to achieve their health and fitness goals. by providing a personalized, user-friendly, and scientifically-backed diet planning application that caters to diverse dietary needs and preferences.
+
+x +y =10;
+x -y =p;
